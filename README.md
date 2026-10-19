@@ -13,11 +13,16 @@ make dashboard   # start the dashboard
 **http://localhost:8501**
 
 
-## Explaination
+# Explaination
 Step 1: load_data.py
+
 Step 2: initial_analysis.py
+
 Step 3: statistical_analysis.py
+
 Step 4: data_subset_analysis.py
+
+
 Dashboard: dashboard.py
 
 
