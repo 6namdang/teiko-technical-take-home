@@ -10,4 +10,15 @@ make dashboard   # start the dashboard
 
 ## Dashboard
 
-After `make dashboard`, open **http://localhost:8501** (in Codespaces, open port 8501 from the "Ports" tab).
+**http://localhost:8501**
+
+
+## Explaination
+Step 1: load_data.py
+Step 2: initial_analysis.py
+Step 3: statistical_analysis.py
+Step 4: data_subset_analysis.py
+Dashboard: dashboard.py
+
+
+
